@@ -38,5 +38,3 @@ def approxEntropy(N,p):
         Với p = 1/2, N = 10 -> Hx = 2.6966
                      N = 5 -> Hx = 2.0419
     '''
-
-print(approxEntropy(10,0.5))
